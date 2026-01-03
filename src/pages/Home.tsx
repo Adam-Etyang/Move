@@ -1,4 +1,4 @@
-function App() {
+function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-950 to-slate-900 px-4">
       <div className="max-w-2xl text-center">
@@ -21,7 +21,7 @@ function App() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default Home;
